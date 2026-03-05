@@ -41,7 +41,7 @@ Beyond individual socioeconomic characteristics, public policy environments may 
 ## Notebook 
 
 The notebook includes a step by step documentation of the data preparation, statistical analysis, and interpretation of results. 
-- **SNAP Nativity Analysis Notebook**
+-  [SNAP Nativity Analysis Notebook](./FinalProjectSDS510-2.ipynb)
 
 ---
 
@@ -64,12 +64,12 @@ Expanding the dataset and incorporating additional variables could provide a mor
 ___
 
 ## References 
-Butcher, K. F., Hu, L., & Perry, R. (2024). The public charge rule and program participation among US citizens. The ANNALS of the American Academy of Political and Social Science, 711(1), 170-198. https://doi.org/10.1177/00027162241293910
-Fouka, V. (2023). State policy and immigrant integration. Annual Review of Political Science, 27. https://doi.org/10.1146/annurev-polisci-051921-102651 
-Iceland, J. (2021). Hardship among immigrants and the native-born in the United States. Demography, 58(2), 655-684. https://doi.org/10.1215/00703370-8958347 
-Ku, L., & Bruen, B. (2013). Poor immigrants use public benefits at a lower rate than poor native-born citizens. Cato Institute Economic Development Bulletin, (17).
+- Butcher, K. F., Hu, L., & Perry, R. (2024). The public charge rule and program participation among US citizens. The ANNALS of the American Academy of Political and Social Science, 711(1), 170-198. https://doi.org/10.1177/00027162241293910
+- Fouka, V. (2023). State policy and immigrant integration. Annual Review of Political Science, 27. https://doi.org/10.1146/annurev-polisci-051921-102651 
+- Iceland, J. (2021). Hardship among immigrants and the native-born in the United States. Demography, 58(2), 655-684. https://doi.org/10.1215/00703370-8958347 
+- Ku, L., & Bruen, B. (2013). Poor immigrants use public benefits at a lower rate than poor native-born citizens. Cato Institute Economic Development Bulletin, (17).
 Citation for IPUMS USA 
-Steven Ruggles, Sarah Flood, Matthew Sobek, Daniel Backman, Grace Cooper, Julia A. Rivera Drew, Stephanie Richards, Renae Rodgers, Jonathan Schroeder, and Kari C.W. Williams. IPUMS USA: Version 16.0 [dataset]. Minneapolis, MN: IPUMS, 2025. https://doi.org/10.18128/D010.V16.0
+- Steven Ruggles, Sarah Flood, Matthew Sobek, Daniel Backman, Grace Cooper, Julia A. Rivera Drew, Stephanie Richards, Renae Rodgers, Jonathan Schroeder, and Kari C.W. Williams. IPUMS USA: Version 16.0 [dataset]. Minneapolis, MN: IPUMS, 2025. https://doi.org/10.18128/D010.V16.0
 
 
 
